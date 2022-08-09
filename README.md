@@ -6,3 +6,6 @@
      
 ## Testcarry.v
       This is a testbench program code to test the workings of adder.v
+
+## carry_result.PNG
+      This the image of the simulation obtained when the testbench works on the adder.v program code.
