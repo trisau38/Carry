@@ -10,3 +10,6 @@
 
 ## carry_result.PNG
       This the image of the simulation obtained when the testbench works on the adder.v program code.
+
+## carry_TT.v
+     This is a code written in primitive form to incorporate the truth table.
